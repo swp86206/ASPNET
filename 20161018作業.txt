@@ -1,0 +1,3 @@
+1.Default.aspx: GridView(要有超連結-->Detail.aspx)
+2.Top10.aspx: DataList(要有圖片,要有超連結-->Detail.aspx)
+3.Detail.aspx: FormView顯示單一產品詳細資訊

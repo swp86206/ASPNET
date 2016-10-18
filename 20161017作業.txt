@@ -1,0 +1,2 @@
+1.建立你的網站,Default.aspx,About.aspx-->套用主版頁面
+2.建立你的資料庫,至少20筆產品的資料-->用GridView顯示在Default.aspx

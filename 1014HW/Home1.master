@@ -46,71 +46,17 @@
 		</div>
 		<div class="body">
 			<div class="home">
-				<div class="featured">
-                    <!--------->
-					
-					<div>
-						<div>
-							<p>
-                                <asp:ContentPlaceHolder ID="Main" runat="server"></asp:ContentPlaceHolder>
-								
-							</p>
-							
-						</div>
-					</div>
-                    <!--------->
-				</div>
+			
 				<div class="section">
 					<div>
-						<h4>This is a free website template</h4>
+						<h4></h4>
 						<p>
-							Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+                             <asp:ContentPlaceHolder ID="Main" runat="server"></asp:ContentPlaceHolder>
+							
 						</p>
-						<ul>
-							<li>
-								<ul>
-									<li>
-										<a href="contact.html">List of service</a>
-									</li>
-									<li>
-										<a href="contact.html">List of service</a>
-									</li>
-									<li>
-										<a href="contact.html">List of service</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<ul>
-									<li>
-										<a href="contact.html">Product name</a>
-									</li>
-									<li>
-										<a href="contact.html">Product name</a>
-									</li>
-									<li>
-										<a href="contact.html">Product name</a>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<ul>
-									<li>
-										<a href="contact.html">Service name</a>
-									</li>
-									<li>
-										<a href="contact.html">Service name</a>
-									</li>
-									<li>
-										<a href="contact.html">Service name</a>
-									</li>
-								</ul>
-							</li>
-						</ul>
+						
 					</div>
-					<div>
-						<a href="contact.html"><img src="images/girl3.jpg" alt=""></a>
-					</div>
+					
 				</div>
 				<div>
 					<ul>
